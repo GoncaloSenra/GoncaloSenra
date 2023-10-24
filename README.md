@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I am Gonçalo Senra 👋
+
+Currently studying Software Engineering at UMinho
+
 
 <!--
 **GoncaloSenra/GoncaloSenra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
