@@ -1,6 +1,6 @@
 ### Hi there! I am Gonçalo Senra 👋
 
-Currently studying Software Engineering at UMinho
+Currently studying Informatics Engineering at UMinho
 
 
 <!--
